@@ -1,0 +1,17 @@
+Machine Learning Gruplar
+-------------------------
+1- Zübeyir Aladað - Hayriye Seda Özbey - Serdar Evleksiz (Road Sign)
+2- Mustafa Çalýkçý-Rasim Deniz
+3- Ömer Emre Kaya - Ali Sýtmapýnar - Burak Küçüksakarya (Learning To Play 2D VideoGames)
+4- Yalçýn Kocagil - Nimetullah Bozok - Süleyman Çalýþkan  (Spoken Language)
+5- Yasemen Ýnce - Zeynep Gündoðdu - Kübra Camcý (Facebook Recommendation)
+6- Merve Çekkin - Barýþ Elma (NBA Statistics)
+7- Murat Apaydýn - Muzaffer Oflaz - Koray Dedeoðlu
+8- Elif Uysal - Ayþe Yýlmaz - Nesrin Ertosun (Distinguishing Opinion From News)
+9- Merve Çetingül - Gül Saðlam - Çaðlar Öznalcýlar (Bestbuy Recommendation)
+10- Nurullah Elmas - Sait Yüce
+11- Alperen Hançer - Mehmet Halit Özalp
+12- Esma Taþkýn - Hatice Tekiþ - Rozerin Küçük (Text mining to detect insults un online discussion)
+13- Kemal Özleyen - Mostafa Rady 
+14- Rabia Ramazanoðlu - Fatiha Küçükoflaz
+15- Alpaslan Aslan - Sefa Korkmaz (Text Detection and Recognition)

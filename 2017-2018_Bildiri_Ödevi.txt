@@ -1,0 +1,49 @@
+Yapýlacaklar
+------------
+1- http://mlr.cs.umass.edu/ml/datasets.html (Optional)
+sitesinden bir dataset indirilecek
+2-Weka 3.8 indir kur
+3-C:\Program Files\Weka-3-8\data altýndaki data setlerden birini kullan
+4-Toplam data sayýsý ve Attribute sayýsý kaydedilir
+5-Weka Exlporer açýlýr
+6-Open File týklanýr
+7-C:\Program Files\Weka-3-8\data altýndan data setlerden birisi seçilir
+8-Select Attributes kýsmýndan bir yöntem seçilerek sýnýflandýrma için yöntem 
+tarafýndan yeterli olarak önerilen özellikler bulunur
+9-Kullandýðýmýz yöntem(ler) ile ilgili bildiride bahsedilecek yayýnlar bulunur
+10-Classify section'ýndan bir tane algoritma seçilir
+11-Test options'dan Cross Validation seçilir (Default 10)
+12-Classifier Output kýsmýndan 
+    Correctly Classified Instances sayýsý ve yüzdesi tespit edilir
+    Mean absolute error 
+    Root mean squared error 
+    Relative absolute error
+    Root relative squared error    
+    Confusion Matrix kaydedilir (Sýnýflandýrma iþlemi ise)
+    ROC Area (Sýnýflar için)
+    
+13-Classify section'ýndan baþka bir tane algoritma seçilir
+  11 ve 12. adýmlar tekrar edilir
+
+ ("Results list" kýsmýnda algoritma çalýþtýrma sonuçlarý listeleniyor)
+
+14- 10 ve 13. adýmlarda kullandýðýmýz yöntemlerle ilgili bilgi (yayýnlardan) toplanýr
+15- 8. adýmda yöntemin bulduðu özelliklerle 10. ve 13. adýmda kullandýðýmýz algoritmalar
+    tekrar çalýþtýrýlýr
+16- 12. adýmdaki sonuçlar tekrar tespit edilir
+17- Sonuçlar karþýlaþtýrýlýr (Tablolar halinde verilir)
+
+------------------------------------------------------------
+
+SIU Yayýný için
+1-Dropbox'taki SIU2017 klasöründeki bildiriler incelenerek bildirilerin genel 
+içeriði hakkýnda fikir edinilir
+2-Dropbox'taki SIU2017 klasöründeki  2014_04_msw_a4_format.doc dosyasýndaki þablona
+uygun olarak bildiri yazýlýr 
+
+   
+
+
+    
+
+
